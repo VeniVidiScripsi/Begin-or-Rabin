@@ -7,5 +7,5 @@ This model has been developed for the purpose of identifying quotes from two fam
 
 ### Usage
 
-This model can be used for personal or professional purposes to check whether a given sentence is attributed to either Menachem Begin or Yitzhak Rabin. Can be used for several purposes, the most common of which is certainly the relief of particularly severe boredom (;
+This model can be used for personal or professional purposes to check whether a given sentence is attributed to either Menachem Begin or Yitzhak Rabin. Can be used for several purposes, the most common of which is certainly the relief of particularly severe boredom ( ;
 
