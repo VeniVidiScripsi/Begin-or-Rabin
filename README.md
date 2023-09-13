@@ -3,7 +3,7 @@
 
 ### Description
 
-This model has been developed for the purpose of identifying quotes from two famous speakers, Menachem Begin and Yitzhak Rabin. The model is based on a pretrained language model.
+This model has been developed for the purpose of identifying quotes from two famous speakers, Menachem Begin (https://en.wikipedia.org/wiki/Menachem_Begin) and Yitzhak Rabin (https://en.wikipedia.org/wiki/Yitzhak_Rabin). The model is based on a pretrained language model. 
 
 ### Usage
 
